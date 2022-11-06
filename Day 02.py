@@ -12,3 +12,10 @@ s = (First+Second+Third)/2
 
 Area = (s*(s-First)*(s-Second)*(s-Third)**0.5)
 print("The area of the triangle is ",Area)
+
+
+#OUTPUT
+Enter the first: 64
+Enter the second: 23
+Enter the third: 66
+The area of the triangle is  165775.3218338048
