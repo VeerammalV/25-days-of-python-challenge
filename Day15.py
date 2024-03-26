@@ -1,7 +1,7 @@
 def sum_list():
-    poop =  [[2, 4, 5, 6], [2, 3, 5, 6]]
-    pee = [one for sublist in poop for one in sublist]
-    print(sum(pee))
+    p1 =  [[2, 4, 5, 6], [2, 3, 5, 6]]
+    p2 = [one for sublist in p1 for one in sublist]
+    print(sum(p2))
 def main():
     sum_list()
 
