@@ -1,1 +1,1 @@
-# 50-days-of-python-challenge
+# 25-days-of-python-challenge
